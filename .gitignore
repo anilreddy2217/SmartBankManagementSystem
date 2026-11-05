@@ -1,0 +1,22 @@
+# Maven build files
+target/
+*.class
+*.war
+
+# Eclipse workspace files
+.metadata/
+.settings/
+.classpath
+.project
+
+# IntelliJ and VS Code
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Sensitive configuration
+.env
+.env.*
+application-local.properties
